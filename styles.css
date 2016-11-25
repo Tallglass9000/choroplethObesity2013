@@ -1,0 +1,83 @@
+path {
+    stroke-width: 1px;
+    stroke: white;
+    fill: #999;
+    cursor: pointer;
+}
+
+body {
+    font-family: sans-serif;
+    color: #666666;
+}
+
+h2 {
+    margin: 1vw 0 1vw 2vw;
+}
+
+hr {
+    border: 1px solid #eee;
+}
+
+.mapandlegend {
+    position: relative;
+    left: 2vw;
+}
+
+.legend {
+    position: absolute;
+    top: 350px;
+    left: 3vw;
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.ltitle {
+    margin: 0 0 5px 0;
+    font-size: 0.9em;
+}
+
+.lcolor {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #eee;
+}
+
+.c1 {
+    background-color: #2c7bb6;
+}
+
+.c2 {
+    background-color: #abd9e9;
+}
+
+.c3 {
+    background-color: #ffffbf;
+}
+
+.c4 {
+    background-color: #fdae61;
+}
+
+.c5 {
+    background-color: #d7191c;
+}
+
+.lcolorval {
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 0.9em;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    left: 10vw;
+}
+
+.datasource {
+    position: absolute;
+    top: 615px;
+    left: 2vw;
+    font-size: 0.8em;
+}

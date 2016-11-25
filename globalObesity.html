@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Global Obesity</title>
+        <link type="text/css" rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+
+        <h2>Average Rates of Obesity for Men and Women Ages 20+ in 2013</h2>
+        <hr>
+        <div class="mapandlegend">
+            <div class="legend">
+                <div class="ltitle">Percent Obese</div>
+                <div class="lcolorbox"><div class="lcolor c1"></div><div class="lcolorval">0 to 12.02</div></div>
+                <div class="lcolorbox"><div class="lcolor c2"></div><div class="lcolorval">12.03 to 24.04</div></div>
+                <div class="lcolorbox"><div class="lcolor c3"></div><div class="lcolorval">24.05 to 36.06</div></div>
+                <div class="lcolorbox"><div class="lcolor c4"></div><div class="lcolorval">36.07 to 48.08</div></div>
+                <div class="lcolorbox"><div class="lcolor c5"></div><div class="lcolorval">48.09 to 60.10</div></div>
+            </div>
+
+            <div id="map"></div>
+
+            <div class="datasource">Data from: Global Burden of Disease Study 2013 (GBD 2013), coordinated by the Institute for Health Metrics and Evaluation (IHME), Obesity Prevalence 1990-2013</div>
+        </div>
+
+
+        <script src="d3.v3.js" charset="utf-8"></script>
+        <script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+        <script src="map.js"></script>
+
+    </body>
+</html>

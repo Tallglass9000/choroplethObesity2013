@@ -1,0 +1,15 @@
+{
+  "name": "choroplethobesity",
+  "version": "0.1.0",
+  "description": "choropleth of global obesity 2013",
+  "main": "globalObesity.html",
+  "scripts": {
+    "test": "tba"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tba"
+  },
+  "author": "monicawu.webdev@gmail.com",
+  "license": "MIT"
+}
