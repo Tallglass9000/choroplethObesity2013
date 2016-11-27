@@ -1,17 +1,16 @@
 path {
     stroke-width: 1px;
-    stroke: #666666;
-    fill: #FFF;
     cursor: pointer;
 }
 
 body {
+    position: relative;
     font-family: sans-serif;
-    color: #666666;
+    color: #333;
 }
 
 h2 {
-    margin: 1vw 0 1vw 2vw;
+    margin: 1.5vw 0 1.5vw 2vw;
 }
 
 hr {
@@ -25,8 +24,8 @@ hr {
 
 .legend {
     position: absolute;
-    top: 350px;
-    left: 3vw;
+    top: 210px;
+    left: 1vw;
     padding: 10px;
     border: 1px solid #eee;
 }
@@ -72,12 +71,45 @@ hr {
 #map {
     position: absolute;
     top: 0;
-    left: 10vw;
+    left: 2vw;
 }
 
 .datasource {
     position: absolute;
     top: 615px;
-    left: 2vw;
+    left: 0;
+    font-size: 0.8em;
+}
+
+#bottom {
+    position: absolute;
+    top: 720px;
+}
+
+.linechartsandlegend {
+    position: absolute;
+    top: 820px;
+}
+
+.lineoption {
+    float: right;
+    margin-right: 18px;
+}
+
+.axis path,
+.axis line {
+    fill:none;
+    stroke: black;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 0.5em;
+}
+
+.datasource2 {
+    margin-left: 2vw;
     font-size: 0.8em;
 }

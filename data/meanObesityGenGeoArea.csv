@@ -1,0 +1,88 @@
+geoid,geoarea,year,meanrate
+1,Global,1990,0.093
+1,Global,2002,0.11
+1,Global,2013,0.12
+2,Developing,1990,0.062
+2,Developing,2002,0.076
+2,Developing,2013,0.091
+3,Developed,1990,0.16
+3,Developed,2002,0.2
+3,Developed,2013,0.214
+4,"Southeast Asia, East Asia, and Oceania",1990,0.029
+4,"Southeast Asia, East Asia, and Oceania",2002,0.042
+4,"Southeast Asia, East Asia, and Oceania",2013,0.055
+5,East Asia,1990,0.021
+5,East Asia,2002,0.032
+5,East Asia,2013,0.044
+6,Southeast Asia,1990,0.035
+6,Southeast Asia,2002,0.048
+6,Southeast Asia,2013,0.062
+7,Oceania,1990,0.15
+7,Oceania,2002,0.153
+7,Oceania,2013,0.158
+8,"Central Europe, Eastern Europe, and Central Asia",1990,0.171
+8,"Central Europe, Eastern Europe, and Central Asia",2002,0.192
+8,"Central Europe, Eastern Europe, and Central Asia",2013,0.201
+9,Central Asia,1990,0.14
+9,Central Asia,2002,0.152
+9,Central Asia,2013,0.177
+10,Central Europe,1990,0.179
+10,Central Europe,2002,0.185
+10,Central Europe,2013,0.195
+11,Eastern Europe,1990,0.173
+11,Eastern Europe,2002,0.212
+11,Eastern Europe,2013,0.217
+12,High-income,1990,0.158
+12,High-income,2002,0.192
+12,High-income,2013,0.204
+13,High-income Asia Pacific,1990,0.03
+13,High-income Asia Pacific,2002,0.04
+13,High-income Asia Pacific,2013,0.048
+14,Australasia,1990,0.157
+14,Australasia,2002,0.238
+14,Australasia,2013,0.287
+15,Western Europe,1990,0.164
+15,Western Europe,2002,0.197
+15,Western Europe,2013,0.208
+16,Southern Latin America,1990,0.214
+16,Southern Latin America,2002,0.226
+16,Southern Latin America,2013,0.227
+17,High-income North America,1990,0.213
+17,High-income North America,2002,0.296
+17,High-income North America,2013,0.316
+18,Latin America and Caribbean,1990,0.145
+18,Latin America and Caribbean,2002,0.181
+18,Latin America and Caribbean,2013,0.21
+19,Caribbean,1990,0.153
+19,Caribbean,2002,0.172
+19,Caribbean,2013,0.185
+20,Andean Latin America,1990,0.122
+20,Andean Latin America,2002,0.142
+20,Andean Latin America,2013,0.161
+21,Central Latin America,1990,0.151
+21,Central Latin America,2002,0.199
+21,Central Latin America,2013,0.229
+22,Tropical Latin America,1990,0.111
+22,Tropical Latin America,2002,0.126
+22,Tropical Latin America,2013,0.166
+23,North Africa and Middle East,1990,0.225
+23,North Africa and Middle East,2002,0.249
+23,North Africa and Middle East,2013,0.272
+24,South Asia,1990,0.04
+24,South Asia,2002,0.045
+24,South Asia,2013,0.05
+25,Sub-Saharan Africa,1990,0.064
+25,Sub-Saharan Africa,2002,0.085
+25,Sub-Saharan Africa,2013,0.095
+26,Central Sub-Saharan Africa,1990,0.064
+26,Central Sub-Saharan Africa,2002,0.07
+26,Central Sub-Saharan Africa,2013,0.078
+27,Eastern Sub-Saharan Africa,1990,0.051
+27,Eastern Sub-Saharan Africa,2002,0.06
+27,Eastern Sub-Saharan Africa,2013,0.067
+28,Southern Sub-Saharan Africa,1990,0.192
+28,Southern Sub-Saharan Africa,2002,0.208
+28,Southern Sub-Saharan Africa,2013,0.253
+29,Western Sub-Saharan Africa,1990,0.062
+29,Western Sub-Saharan Africa,2002,0.096
+29,Western Sub-Saharan Africa,2013,0.107

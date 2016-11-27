@@ -1,0 +1,220 @@
+country,meanrate,countryid
+Afghanistan,0.144,1
+Angola,0.156,2
+Albania,0.102,3
+Andorra,0.089,4
+United Arab Emirates,0.29,5
+Argentina,0.208,6
+Armenia,0.193,7
+Antigua and Barbuda,0.157,8
+Australia,0.287,9
+Austria,0.18,10
+Azerbaijan,0.204,11
+Burundi,0.031,12
+Belgium,0.209,13
+Benin,0.101,14
+Burkina Faso,0.063,15
+Bangladesh,0.036,16
+Bulgaria,0.186,17
+Bahrain,0.357,18
+The Bahamas,0.398,19
+Bosnia and Herzegovina,0.181,20
+Belarus,0.118,21
+Belize,0.33,22
+Bolivia,0.177,23
+Brazil,0.164,24
+Barbados,0.257,25
+Brunei,0.035,26
+Bhutan,0.143,27
+Botswana,0.153,28
+Central African Republic,0.08,29
+Canada,0.212,30
+Switzerland,0.177,31
+Chile,0.263,32
+China,0.044,33
+Cote d'Ivoire,0.087,34
+Cameroon,0.145,35
+Democratic Republic of the Congo,0.046,36
+Congo,0.105,37
+Colombia,0.189,38
+Comoros,0.133,39
+Cape Verde,0.115,40
+Costa Rica,0.22,41
+Cuba,0.229,42
+Cyprus,0.241,43
+Czech Republic,0.194,44
+Developing,0.091,45
+Developed,0.214,46
+Germany,0.222,47
+Djibouti,0.145,48
+Dominica,0.255,49
+Denmark,0.198,50
+Dominican Republic,0.157,51
+Algeria,0.18,52
+Ecuador,0.134,53
+Egypt,0.377,54
+Eritrea,0.039,55
+Spain,0.207,56
+Estonia,0.228,57
+Ethiopia,0.029,58
+Finland,0.217,59
+Fiji,0.252,60
+France,0.195,61
+Federated States of Micronesia,0.447,62
+Global,0.12,63
+Gabon,0.198,64
+United Kingdom,0.25,65
+Georgia,0.251,66
+Ghana,0.112,67
+Guinea,0.063,68
+The Gambia,0.133,69
+Guinea-Bissau,0.206,70
+Equatorial Guinea,0.298,71
+Greece,0.194,72
+Grenada,0.161,73
+Guatemala,0.146,74
+Guyana,0.216,75
+Honduras,0.181,76
+Croatia,0.199,77
+Haiti,0.088,78
+Hungary,0.234,79
+Indonesia,0.069,80
+India,0.039,81
+Ireland,0.227,82
+Iran,0.215,83
+Iraq,0.319,84
+Iceland,0.279,85
+Israel,0.232,86
+Italy,0.182,87
+Jamaica,0.216,88
+Jordan,0.365,89
+Japan,0.039,90
+Kazakhstan,0.222,91
+Kenya,0.11,92
+Kyrgyzstan,0.155,93
+Cambodia,0.021,94
+Kiribati,0.477,95
+South Korea,0.064,96
+Kuwait,0.491,97
+Laos,0.056,98
+Lebanon,0.277,99
+Liberia,0.187,100
+Libya,0.439,101
+Saint Lucia,0.169,102
+Sri Lanka,0.052,103
+Lesotho,0.204,104
+Lithuania,0.218,105
+Luxembourg,0.249,106
+Latvia,0.221,107
+Morocco,0.196,108
+Moldova,0.216,109
+Madagascar,0.03,110
+Maldives,0.125,111
+Mexico,0.272,112
+Marshall Islands,0.407,113
+Macedonia,0.194,114
+Mali,0.132,115
+Malta,0.283,116
+Myanmar,0.065,117
+Montenegro,0.219,118
+Mongolia,0.154,119
+Mozambique,0.066,120
+Mauritania,0.174,121
+Mauritius,0.131,122
+Malawi,0.047,123
+Malaysia,0.142,124
+Namibia,0.136,125
+Niger,0.046,126
+Nigeria,0.111,127
+Nicaragua,0.21,128
+Netherlands,0.143,129
+Norway,0.186,130
+Nepal,0.024,131
+New Zealand,0.29,132
+Oman,0.267,133
+Pakistan,0.143,134
+Panama,0.152,135
+Peru,0.17,136
+Philippines,0.052,137
+Papua New Guinea,0.098,138
+Poland,0.198,139
+North Korea,0.025,140
+Portugal,0.223,141
+Paraguay,0.259,142
+Palestine,0.362,143
+Qatar,0.472,144
+High-income Asia Pacific,0.048,145
+Western Europe,0.208,146
+Andean Latin America,0.161,147
+Central Latin America,0.229,148
+Southern Latin America,0.227,149
+Tropical Latin America,0.166,150
+North Africa and Middle East,0.272,151
+High-income North America,0.316,152
+Oceania,0.158,153
+Central Sub-Saharan Africa,0.078,154
+Eastern Sub-Saharan Africa,0.067,155
+Central Asia,0.177,156
+Southern Sub-Saharan Africa,0.253,157
+Western Sub-Saharan Africa,0.107,158
+East Asia,0.044,159
+South Asia,0.05,160
+Southeast Asia,0.062,161
+Australasia,0.287,162
+Caribbean,0.185,163
+Central Europe,0.195,164
+Eastern Europe,0.217,165
+Romania,0.194,166
+Russia,0.228,167
+Rwanda,0.03,168
+High-income,0.204,169
+"Central Europe, Eastern Europe, and Central Asia",0.201,170
+Sub-Saharan Africa,0.095,171
+North Africa and Middle East,0.272,172
+South Asia,0.05,173
+"Southeast Asia, East Asia, and Oceania",0.055,174
+Latin America and Caribbean,0.21,175
+Saudi Arabia,0.358,176
+Sudan,0.156,177
+Senegal,0.163,178
+Singapore,0.114,179
+Solomon Islands,0.316,180
+Sierra Leone,0.087,181
+El Salvador,0.213,182
+Somalia,0.1,183
+Serbia,0.178,184
+South Sudan,0.216,185
+Sao Tome and Principe,0.127,186
+Suriname,0.234,187
+Slovakia,0.197,189
+Slovenia,0.212,190
+Sweden,0.194,191
+Swaziland,0.231,192
+Seychelles,0.207,193
+Syria,0.32,194
+Chad,0.045,195
+Togo,0.075,196
+Thailand,0.089,197
+Tajikistan,0.132,198
+Turkmenistan,0.184,199
+Timor-Leste,0.048,200
+Tonga,0.601,201
+Trinidad and Tobago,0.288,202
+Tunisia,0.14,203
+Turkey,0.276,204
+Taiwan,0.053,205
+Tanzania,0.104,206
+Uganda,0.043,207
+Ukraine,0.205,208
+Uruguay,0.245,209
+United States,0.328,210
+Uzbekistan,0.137,211
+Saint Vincent and the Grenadines,0.193,212
+Venezuela,0.183,213
+Vietnam,0.016,214
+Vanuatu,0.177,215
+Samoa,0.576,216
+Yemen,0.147,217
+South Africa,0.288,218
+Zambia,0.096,435
+Zimbabwe,0.112,522

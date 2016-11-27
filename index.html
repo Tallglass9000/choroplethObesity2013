@@ -3,13 +3,17 @@
     <head>
         <meta charset="UTF-8">
         <title>Global Obesity</title>
-        <link type="text/css" rel="stylesheet" href="styles.css">
+        <link type="text/css" rel="stylesheet" href="css/styles.css">
     </head>
     <body>
 
-        <h2>Average Rates of Obesity for Men and Women Ages 20+ in 2013</h2>
-        <hr>
+        <div id="top">
+            <h2>Average Percent Population Obese Men and Women Ages 20 to 100 Years in 2013</h2>
+            <hr>
+        </div>
+
         <div class="mapandlegend">
+
             <div class="legend">
                 <div class="ltitle">Percent Obese</div>
                 <div class="lcolorbox"><div class="lcolor c1"></div><div class="lcolorval">0 to 12.02</div></div>
@@ -24,10 +28,33 @@
             <div class="datasource">Data from: Global Burden of Disease Study 2013 (GBD 2013), coordinated by the Institute for Health Metrics and Evaluation (IHME), Obesity Prevalence 1990-2013</div>
         </div>
 
+        <br>
+
+        <div id="bottom">
+            <hr>
+            <h2>Average Percent Population Obese Men and Women Ages 20 to 100 in 1990, 2002, and 2013</h2>
+            <hr>
+        </div>
+
+        <div class="linechartsandlegend">
+
+            <select class="lineoption">
+                <option value="all">All</option>
+                <option value="2013">2013</option>
+                <option value="2002">2002</option>
+                <option value="1990">1990</option>
+            </select>
+
+            <div id="linechart"></div>
+
+            <div class="datasource2">Data from: Global Burden of Disease Study 2013 (GBD 2013), coordinated by the Institute for Health Metrics and Evaluation (IHME), Obesity Prevalence 1990-2013</div>
+
+        </div>
 
         <script src="d3.v3.js" charset="utf-8"></script>
         <script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
-        <script src="map.js"></script>
+        <script src="js/map.js"></script>
+        <script src="js/linecharts2.js"></script>
 
     </body>
 </html>
